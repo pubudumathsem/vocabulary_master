@@ -1,39 +1,23 @@
-# JLPT N2 Flashcards
+# Japanese Flashcards
 
-A static flashcard application for GitHub Pages. It loads the initial deck from `vocabulary.txt`.
+A static Japanese vocabulary flashcard app that can be hosted on GitHub Pages.
 
-## Corrected numbering
-The two supplied ranges contained 45 + 42 terms. This project renumbers all 87 terms continuously from **1 to 87**.
+## Vocabulary files
+Put `.txt` files beside `index.html`. Their filenames must begin with `vocab` (case-insensitive), for example:
+- `vocabulary.txt`
+- `vocab_n2.txt`
+- `vocab_business.txt`
 
-## Run locally
-Because the browser loads `vocabulary.txt` with `fetch`, do not double-click `index.html`. Run a local server:
+Format:
+`number|kanji|reading|english|sinhala`
 
-```bash
-python3 -m http.server 8000
-```
+Because a browser cannot automatically list files inside a GitHub repository/folder, add each vocabulary filename to `vocab-files.json`. The dropdown is generated dynamically from that list and ignores entries that do not start with `vocab`.
 
-Then open `http://localhost:8000`.
-
-## Upload and deploy with GitHub Pages
-1. Create a new public GitHub repository.
-2. Upload all five files from this folder to the repository root.
+## GitHub Pages
+1. Create a GitHub repository.
+2. Upload `index.html`, `vocab-files.json`, and all vocabulary `.txt` files to the repository root.
 3. Open **Settings > Pages**.
 4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Select `main`, choose `/ (root)`, and click **Save**.
+5. Select the `main` branch and `/ (root)`, then Save.
 
-GitHub will show the published site address after deployment.
-
-## Editing data
-- Directly edit `vocabulary.txt` in GitHub for permanent shared changes.
-- Changes made inside the app are stored only in that browser using `localStorage`.
-- Use **Export TXT** to download the modified data, then replace `vocabulary.txt` in GitHub.
-
-A static GitHub Pages website cannot directly write changes back to the repository without authentication and a backend or GitHub API token. Do not put a GitHub token in client-side JavaScript.
-
-## Text format
-One card per line, separated by `|`:
-
-```text
-number|kanji|reading|english|sinhala
-1|福祉|ふくし|Welfare|සුබසාධනය
-```
+The resulting site is static and can be opened from phone or desktop without a backend.
