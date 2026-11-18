@@ -1,0 +1,364 @@
+number|kanji|reading|english|sinhala
+1|福祉|ふくし|Welfare|සුබසාධනය
+2|討論|とうろん|Debate; discussion|විවාදය; සාකච්ඡාව
+3|破片|はへん|Fragment; broken piece|කැබැල්ල; සුන්බුන් කොටස
+4|拡充|かくじゅう|Expansion; enhancement|පුළුල් කිරීම; වර්ධනය කිරීම
+5|警備|けいび|Security; guard|ආරක්ෂාව; මුර සේවය
+6|治療|ちりょう|Medical treatment|වෛද්‍ය ප්‍රතිකාර
+7|運賃|うんちん|Fare|ගමන් ගාස්තුව
+8|撮影|さつえい|Photography; filming|ඡායාරූප ගැනීම; රූගත කිරීම
+9|豊富|ほうふ|Abundant; rich|බහුල; සම්පත් බහුල
+10|管理|かんり|Management; control|කළමනාකරණය; පාලනය
+11|削除|さくじょ|Deletion|මකා දැමීම
+12|勧誘|かんゆう|Solicitation; invitation to join|එක්වීමට ආරාධනා කිරීම
+13|模範|もはん|Model; example|ආදර්ශය
+14|腕|うで|Arm; skill|අත; දක්ෂතාව
+15|損害|そんがい|Damage; loss|හානිය; පාඩුව
+16|順調|じゅんちょう|Smooth; going well|සාර්ථකව; බාධාවකින් තොරව
+17|垂直|すいちょく|Vertical; perpendicular|සිරස්; ලම්බක
+18|永久|えいきゅう|Permanent; eternity|සදාකාලික; සදාතනික
+19|介護|かいご|Nursing care|රැකවරණය; සාත්තු කිරීම
+20|刺激|しげき|Stimulus; stimulation|උත්තේජනය
+21|実践|じっせん|Practice; putting into practice|ප්‍රායෝගිකව ක්‍රියාත්මක කිරීම
+22|相互|そうご|Mutual; each other|අන්‍යෝන්‍ය; එකිනෙකා
+23|景色|けしき|Scenery; view|දර්ශනය; අවට පරිසරයේ සුන්දරත්වය
+24|防災|ぼうさい|Disaster prevention|ආපදා වැළැක්වීම
+25|礼儀|れいぎ|Manners; courtesy|ආචාරශීලීත්වය; සිරිත් විරිත්
+26|出世|しゅっせ|Success in life; promotion|ජීවිතයේ දියුණුව; උසස්වීම
+27|伝統|でんとう|Tradition|සම්ප්‍රදාය
+28|規模|きぼ|Scale; size|ප්‍රමාණය; පරිමාණය
+29|尊重|そんちょう|Respect; regard|ගෞරව කිරීම
+30|隣|となり|Next door; neighbor|අසල්වැසියා; යාබද ස්ථානය
+31|開催|かいさい|Holding an event|උත්සවයක් හෝ වැඩසටහනක් පැවැත්වීම
+32|要求|ようきゅう|Demand; request|ඉල්ලීම; අවශ්‍යතාව
+33|調節|ちょうせつ|Adjustment; regulation|සකස් කිරීම; නියාමනය
+34|至急|しきゅう|Urgent; immediately|වහාම; ඉක්මනින්
+35|象徴|しょうちょう|Symbol|සංකේතය
+36|登録|とうろく|Registration|ලියාපදිංචි කිරීම
+37|変更|へんこう|Change; alteration|වෙනස් කිරීම; සංශෝධනය
+38|地元|じもと|Local area; hometown|තම ප්‍රදේශය; උපන් ප්‍රදේශය
+39|密接|みっせつ|Close relationship|සමීප සම්බන්ධතාව
+40|率直|そっちょく|Frank; straightforward|අවංක; සෘජු
+41|装置|そうち|Device; equipment|උපකරණය; යන්ත්‍රය
+42|焦点|しょうてん|Focus|අවධානය යොමු වන ස්ථානය
+43|積極的|せっきょくてき|Active; proactive|ක්‍රියාශීලී; උනන්දුවෙන් ඉදිරිපත් වන
+44|抵抗|ていこう|Resistance|ප්‍රතිරෝධය; විරෝධය
+45|肩|かた|Shoulder|උරහිස
+46|総額|そうがく|Total amount|මුළු මුදල
+47|抽選|ちゅうせん|Lottery; drawing lots|ලොතරැයිය; දිනුම් ඇදීම
+48|企画|きかく|Plan; project|සැලැස්ම; ව්‍යාපෘතිය
+49|再度|さいど|Once again|නැවත වරක්
+50|処理|しょり|Processing; handling|සැකසීම; කටයුතු කිරීම
+51|系統|けいとう|System; lineage|පද්ධතිය; පෙළපත
+52|精算|せいさん|Settlement of accounts; fare adjustment|ගිණුම් පියවීම; ගාස්තු ගැළපීම
+53|偶然|ぐうぜん|By chance; coincidence|අහම්බෙන්; අහඹු සිදුවීම
+54|恥|はじ|Shame; embarrassment|ලැජ්ජාව
+55|圧倒的|あっとうてき|Overwhelming|අතිශයින් බලවත්; අභිබවා යන
+56|趣味|しゅみ|Hobby|විනෝදාංශය
+57|損|そん|Loss; disadvantage|පාඩුව; අවාසිය
+58|演技|えんぎ|Acting; performance|රංගනය; රඟපෑම
+59|軽傷|けいしょう|Minor injury|සුළු තුවාලය
+60|負担|ふたん|Burden; bearing costs or responsibility|බර; වියදම හෝ වගකීම දැරීම
+61|下旬|げじゅん|Last ten days of a month|මාසයේ අවසාන දින දහය
+62|違反|いはん|Violation|උල්ලංඝනය
+63|陽気|ようき|Cheerful; fine or warm weather|ප්‍රීතිමත්; හොඳ හෝ උණුසුම් කාලගුණය
+64|拡張|かくちょう|Expansion; extension|පුළුල් කිරීම; දිගු කිරීම
+65|比較的|ひかくてき|Relatively; comparatively|සාපේක්ෂව; සංසන්දනාත්මකව
+66|下降|かこう|Descent; decline|පහළ යාම; අඩුවීම
+67|帰省|きせい|Returning to one's hometown|තම උපන් ප්‍රදේශයට ආපසු යාම
+68|異色|いしょく|Unique; distinctive|සුවිශේෂී; වෙනස් ස්වභාවයක් ඇති
+69|声援|せいえん|Cheering; encouragement|ජයඝෝෂාව; දිරිගැන්වීම
+70|返品|へんぴん|Returning goods|භාණ්ඩ ආපසු දීම
+71|乱暴|らんぼう|Violent; rough|ප්‍රචණ්ඩ; රළු
+72|弱点|じゃくてん|Weak point|දුර්වල ස්ථානය
+73|情景|じょうけい|Scene; sight|දර්ශනය; අවස්ථා රූපය
+74|賛否|さんぴ|Approval or disapproval|අනුමැතිය හෝ විරෝධය
+75|記憶|きおく|Memory|මතකය
+76|素材|そざい|Material; ingredient|ද්‍රව්‍යය; අමුද්‍රව්‍යය
+77|住居|じゅうきょ|Residence; dwelling|වාසස්ථානය; නිවස
+78|典型的|てんけいてき|Typical|සාමාන්‍ය නිරූපක; ආදර්ශමය
+79|世間|せけん|The world; society; people|ලෝකය; සමාජය; ජනතාව
+80|欲|よく|Desire; greed|ආශාව; ලෝභය
+81|俳優|はいゆう|Actor|නළුවා
+82|握手|あくしゅ|Handshake|අතට අත දීම
+83|診断|しんだん|Diagnosis|රෝග විනිශ්චය
+84|布|ぬの|Cloth|රෙදි
+85|機嫌|きげん|Mood; humor|මනෝභාවය; ස්වභාවය
+86|損失|そんしつ|Loss|අලාභය
+87|善良|ぜんりょう|Good; virtuous|යහපත්; ගුණවත්
+88|平等|びょうどう|Equality; equal|සමානාත්මතාව; සමාන
+89|研修|けんしゅう|Training|පුහුණුව
+90|投票|とうひょう|Voting|ඡන්දය දීම
+91|詳細|しょうさい|Details|විස්තර
+92|分析|ぶんせき|Analysis|විශ්ලේෂණය
+93|農薬|のうやく|Pesticide; agricultural chemicals|කෘමිනාශක; කෘෂි රසායන
+94|志望|しぼう|Wish; aspiration|අභිලාෂය; බලාපොරොත්තුව
+95|短編|たんぺん|Short story; short work|කෙටිකතාව; කෙටි නිර්මාණය
+96|疲労|ひろう|Fatigue|තෙහෙට්ටුව; විඩාව
+97|優秀|ゆうしゅう|Excellent; outstanding|විශිෂ්ට; දක්ෂ
+98|背骨|せぼね|Spine; backbone|කොඳු ඇට පෙළ
+99|衣装|いしょう|Costume; clothing|ඇඳුම්; ඇඳුම් කට්ටලය
+100|避難|ひなん|Evacuation; taking refuge|ආරක්ෂිත ස්ථානයකට පලා යාම
+101|受講|じゅこう|Attending a course|පාඨමාලාවකට සහභාගී වීම
+102|発揮|はっき|Display of ability|හැකියාව ප්‍රදර්ශනය කිරීම
+103|刑事|けいじ|Police detective|අපරාධ විමර්ශන පොලිස් නිලධාරියා
+104|起床|きしょう|Getting up from bed|නින්දෙන් අවදි වී නැගිටීම
+105|傾向|けいこう|Tendency; trend|ප්‍රවණතාව
+106|視察|しさつ|Inspection; visit|නිරීක්ෂණ චාරිකාව; පරීක්ෂා කිරීම
+107|施設|しせつ|Facility; institution|පහසුකම; ආයතනය
+108|柱|はしら|Pillar; post|කණුව; ස්ථම්භය
+109|統一|とういつ|Unification; unity|එක්සත් කිරීම; ඒකාබද්ධ කිරීම
+110|濃厚|のうこう|Rich; thick; strong|ඝන; තද; ප්‍රබල
+111|諸問題|しょもんだい|Various problems|විවිධ ගැටලු
+112|商店街|しょうてんがい|Shopping street|වෙළඳසැල් වීදිය; වෙළඳ ප්‍රදේශය
+113|高収入|こうしゅうにゅう|High income|ඉහළ ආදායම
+114|副社長|ふくしゃちょう|Vice president|උප සභාපති; නියෝජ්‍ය සභාපති
+115|集中力|しゅうちゅうりょく|Concentration; focus|අවධානය යොමු කිරීමේ හැකියාව
+116|評判|ひょうばん|Reputation; review|කීර්තිය; ප්‍රතිචාරය
+117|評価|ひょうか|Evaluation|ඇගයීම; තක්සේරුව
+118|決断|けつだん|Decision|තීරණය
+119|発生|はっせい|Occurrence; outbreak|සිදුවීම; හටගැනීම
+120|発行|はっこう|Issue; publication|නිකුත් කිරීම; ප්‍රකාශනය
+121|軟弱|なんじゃく|Weak; feeble|දුර්වල; ශක්තිය අඩු
+122|質素|しっそ|Simple; modest|සරල; චාම්
+123|利点|りてん|Advantage|වාසිය; ප්‍රයෝජනය
+124|権利|けんり|Right; entitlement|අයිතිය; හිමිකම
+125|効用|こうよう|Use; benefit|ප්‍රයෝජනය; ප්‍රතිලාභය
+126|有効|ゆうこう|Effective; valid|ඵලදායී; වලංගු
+127|雑談|ざつだん|Chat; small talk|සාමාන්‍ය කතාබහ
+128|取材|しゅざい|News gathering; interview|තොරතුරු රැස් කිරීම; සම්මුඛ සාකච්ඡාව
+129|深刻|しんこく|Serious; severe|බරපතළ; උග්‍ර
+130|続出|ぞくしゅつ|Occurring one after another|එකින් එක දිගටම සිදුවීම
+131|外見|がいけん|Appearance|බාහිර පෙනුම
+132|報告|ほうこく|Report|වාර්තාව; වාර්තා කිරීම
+133|再放送|さいほうそう|Rebroadcast|නැවත විකාශනය කිරීම
+134|予約制|よやくせい|Reservation system|කලින් වෙන්කරවා ගැනීමේ ක්‍රමය
+135|就職率|しゅうしょくりつ|Employment rate|රැකියා ලබාගැනීමේ අනුපාතය
+136|旧制度|きゅうせいど|Old system|පැරණි පද්ධතිය
+137|増加|ぞうか|Increase|වැඩිවීම
+138|上達|じょうたつ|Improvement; progress|දියුණුව; ප්‍රගතිය
+139|増大|ぞうだい|Increase; expansion|වැඩිවීම; පුළුල් වීම
+140|上昇|じょうしょう|Rise; ascent|ඉහළ යාම
+141|優良|ゆうりょう|Excellent; superior|විශිෂ්ට; උසස් තත්ත්වයේ
+142|温暖|おんだん|Mild; warm climate|මෘදු; උණුසුම් දේශගුණය
+143|良性|りょうせい|Benign|හානිකර නොවන; සෞම්‍ය
+144|温厚|おんこう|Gentle; mild-mannered|මෘදු; සන්සුන් ස්වභාවයේ
+145|消極的|しょうきょくてき|Passive; reluctant|නිෂ්ක්‍රීය; පසුබට
+146|見解|けんかい|View; opinion|මතය; අදහස
+147|普及|ふきゅう|Spread; diffusion|ව්‍යාප්තිය; ප්‍රචලිත වීම
+148|注目|ちゅうもく|Attention|අවධානය
+149|検査|けんさ|Inspection; examination|පරීක්ෂාව
+150|医学界|いがくかい|Medical world|වෛද්‍ය ක්ෂේත්‍රය
+151|準優勝|じゅんゆうしょう|Runner-up|අනුශූරතාව
+152|現段階|げんだんかい|Current stage|වත්මන් අදියර
+153|非公式|ひこうしき|Unofficial|නිල නොවන
+154|発明|はつめい|Invention|නව නිපැයුම
+155|活気|かっき|Liveliness; vitality|සජීවී බව; ජීවශක්තිය
+156|活躍|かつやく|Active role; successful activity|ක්‍රියාශීලී දායකත්වය; සාර්ථක ක්‍රියාකාරකම්
+157|活動|かつどう|Activity|ක්‍රියාකාරකම
+158|慎重|しんちょう|Careful; cautious|සැලකිලිමත්; ප්‍රවේශම් සහිත
+159|方針|ほうしん|Policy; course|ප්‍රතිපත්තිය; ක්‍රියාමාර්ගය
+160|範囲|はんい|Range; scope|පරාසය; විෂය පථය
+161|利益|りえき|Profit; benefit|ලාභය; ප්‍රතිලාභය
+162|文学書|ぶんがくしょ|Literary book|සාහිත්‍ය ග්‍රන්ථය
+163|悪条件|あくじょうけん|Unfavorable conditions|අහිතකර කොන්දේසි
+164|解消|かいしょう|Elimination; resolution|ඉවත් කිරීම; විසඳීම
+165|削減|さくげん|Reduction; cut|අඩු කිරීම; කප්පාදුව
+166|減量|げんりょう|Weight reduction; decrease|බර අඩු කිරීම; ප්‍රමාණය අඩු කිරීම
+167|停止|ていし|Stop; suspension|නැවැත්වීම; අත්හිටුවීම
+168|訂正|ていせい|Correction|නිවැරදි කිරීම
+169|変換|へんかん|Conversion|පරිවර්තනය
+170|整備|せいび|Maintenance; preparation|නඩත්තු කිරීම; සූදානම් කිරීම
+171|改善|かいぜん|Improvement|වැඩිදියුණු කිරීම
+172|視界|しかい|Field of vision|දෘශ්‍ය පරාසය
+173|視野|しや|Field of view; perspective|දෘෂ්ටි පථය; දැක්ම
+174|視線|しせん|Line of sight; gaze|බැල්ම; දෘෂ්ටි රේඛාව
+175|才能|さいのう|Talent|දක්ෂතාව
+176|機能|きのう|Function|කාර්යය; ක්‍රියාකාරීත්වය
+177|効力|こうりょく|Effect; validity|බලපෑම; වලංගුභාවය
+178|仮採用|かりさいよう|Provisional employment|තාවකාලික බඳවා ගැනීම
+179|国際色|こくさいしょく|International character|ජාත්‍යන්තර ස්වභාවය
+180|諸外国|しょがいこく|Foreign countries|විදේශ රටවල්
+181|低価格|ていかかく|Low price|අඩු මිල
+182|逃避|とうひ|Escape; evasion|පලා යාම; මඟහැරීම
+183|退場|たいじょう|Leaving; exit|පිටවීම
+184|改正|かいせい|Revision; amendment|සංශෝධනය
+185|改造|かいぞう|Remodeling; modification|නවීකරණය; වෙනස් කිරීම
+186|転換|てんかん|Conversion; shift|මාරුව; පරිවර්තනය
+187|夢中|むちゅう|Absorbed; crazy about|මග්න වූ; දැඩිව ඇලුම් කරන
+188|頑固|がんこ|Stubborn|මුරණ්ඩු
+189|強引|ごういん|Forceful; pushy|බලහත්කාරී; දැඩි ලෙස තල්ලු කරන
+190|奇妙|きみょう|Strange; odd|අමුතු; විචිත්‍ර
+191|日中|にっちゅう|Daytime|දවල් කාලය
+192|矛盾|むじゅん|Contradiction|පරස්පරතාව
+193|交代|こうたい|Change; shift|මාරුව; හුවමාරුව
+194|合同|ごうどう|Joint; combined|ඒකාබද්ධ; සමූහ
+195|真夜中|まよなか|Midnight|මධ්‍යම රාත්‍රිය
+196|投票率|とうひょうりつ|Voter turnout|ඡන්ද ප්‍රතිශතය
+197|半透明|はんとうめい|Semi-transparent|අර්ධ පාරදෘශ්‍ය
+198|日本流|にほんりゅう|Japanese style|ජපන් ක්‍රමය
+199|着々|ちゃくちゃく|Steadily|ක්‍රමානුකූලව; ස්ථිරව
+200|続々|ぞくぞく|One after another|එකින් එක අඛණ්ඩව
+201|憂鬱|ゆううつ|Depression; gloom|දුක්බර බව; මානසික අවපීඩනය
+202|愚痴|ぐち|Complaint; grumbling|මැසිවිල්ල; දොස් කීම
+203|苦情|くじょう|Complaint|පැමිණිල්ල
+204|非難|ひなん|Criticism; condemnation|විවේචනය; හෙළා දැකීම
+205|要所|ようしょ|Key point; important place|ප්‍රධාන ස්ථානය; වැදගත් කරුණ
+206|名所|めいしょ|Famous place|ප්‍රසිද්ධ ස්ථානය
+207|場面|ばめん|Scene; situation|දර්ශනය; අවස්ථාව
+208|画面|がめん|Screen|තිරය
+209|発達|はったつ|Development|වර්ධනය; සංවර්ධනය
+210|展開|てんかい|Development; unfolding|වර්ධනය; දිගහැරීම
+211|成長|せいちょう|Growth|වර්ධනය
+212|適度|てきど|Moderate; appropriate|මධ්‍යස්ථ; සුදුසු
+213|簡略|かんりゃく|Simplification|සරල කිරීම
+214|対等|たいとう|Equal; on equal terms|සමාන; සම තත්ත්වයේ
+215|追加|ついか|Addition|එකතු කිරීම
+216|相当|そうとう|Considerable; equivalent|සැලකිය යුතු; සමාන
+217|廃止|はいし|Abolition; discontinuation|අහෝසි කිරීම; නවතා දැමීම
+218|冷静|れいせい|Calm; composed|සන්සුන්; සංයමයෙන් යුතු
+219|販売部門|はんばいぶもん|Sales department|විකුණුම් අංශය
+220|準決勝|じゅんけっしょう|Semifinal|අර්ධ අවසන් තරගය
+221|風邪気味|かぜぎみ|Slight cold symptoms|සෙම්ප්‍රතිශ්‍යාවේ සැහැල්ලු ලක්ෂණ
+222|食器類|しょっきるい|Tableware|මේස භාණ්ඩ; ආහාර භාජන
+223|解散|かいさん|Dissolution; dispersal|විසුරුවා හැරීම
+224|解放|かいほう|Release; liberation|නිදහස් කිරීම
+225|退出|たいしゅつ|Leaving; exit|පිටවීම
+226|根気|こんき|Perseverance|ඉවසීම; අඛණ්ඩ උත්සාහය
+227|意図|いと|Intention|අරමුණ; අදහස
+228|意欲|いよく|Motivation; willingness|උනන්දුව; කැමැත්ත
+229|特定|とくてい|Specific; identification|නිශ්චිත; හඳුනාගැනීම
+230|専念|せんねん|Devotion; concentration|පූර්ණ අවධානය; කැපවීම
+231|様子|ようす|State; appearance|තත්ත්වය; පෙනුම
+232|格好|かっこう|Appearance; form|පෙනුම; හැඩය
+233|曖昧|あいまい|Ambiguous; vague|අපැහැදිලි; දෙඅර්ථක
+234|掲示|けいじ|Notice; posting|දැන්වීම; ප්‍රදර්ශනය
+235|分解|ぶんかい|Disassembly; decomposition|කොටස් කිරීම; විඝටනය
+236|再提出|さいていしゅつ|Resubmission|නැවත ඉදිරිපත් කිරීම
+237|発車|はっしゃ|Departure of a train or bus|දුම්රිය හෝ බස් රථය පිටත් වීම
+238|歌謡曲|かようきょく|Popular song|ජනප්‍රිය ගීතය
+239|最有力候補|さいゆうりょくこうほ|Leading candidate|ප්‍රබලතම අපේක්ෂකයා
+240|分配|ぶんぱい|Distribution|බෙදාහැරීම
+241|中継|ちゅうけい|Relay; broadcast|සජීවී සම්බන්ධතාව; විකාශනය
+242|発想|はっそう|Idea; conception|අදහස; සංකල්පය
+243|仮定|かてい|Assumption|උපකල්පනය
+244|目印|めじるし|Landmark; mark|සලකුණ; හඳුනාගැනීමේ ලකුණ
+245|比例|ひれい|Proportion|අනුපාතය
+246|対応|たいおう|Response; handling|ප්‍රතිචාරය; කටයුතු කිරීම
+247|比較|ひかく|Comparison|සංසන්දනය
+248|応答|おうとう|Response; reply|ප්‍රතිචාරය; පිළිතුර
+249|依然|いぜん|Still; as before|තවමත්; පෙර පරිදි
+250|麓|ふもと|Foot of a mountain|කන්ද පාමුල
+251|補足|ほそく|Supplement; addition|අතිරේක විස්තර; එකතු කිරීම
+252|催促|さいそく|Urging; reminder|ඉක්මන් කරන ඉල්ලීම; මතක් කිරීම
+253|作品集|さくひんしゅう|Collection of works|කෘති එකතුව
+254|電車賃|でんしゃちん|Train fare|දුම්රිය ගාස්තුව
+255|一色|いっしょく|One color; dominated by|එකම වර්ණය; එකම ලක්ෂණයෙන් පිරුණු
+256|導入|どうにゅう|Introduction; implementation|හඳුන්වාදීම; ක්‍රියාත්මක කිරීම
+257|体格|たいかく|Physique; build|ශරීර ව්‍යුහය
+258|頑丈|がんじょう|Sturdy; strong|ශක්තිමත්; දෘඪ
+259|合図|あいず|Signal|සංඥාව
+260|危険性|きけんせい|Risk; danger potential|අවදානම; අනතුරු හැකියාව
+261|未経験|みけいけん|Inexperienced|අත්දැකීම් නොමැති
+262|高性能|こうせいのう|High performance|ඉහළ කාර්යසාධනය
+263|交換|こうかん|Exchange|හුවමාරුව
+264|改訂|かいてい|Revision|සංශෝධනය
+265|原稿|げんこう|Manuscript; draft|අත්පිටපත; කෙටුම්පත
+266|一気|いっき|In one go|එකවර; එක හුස්මට
+267|徹夜|てつや|All-nighter|මුළු රාත්‍රියම නොනිදා සිටීම
+268|用心|ようじん|Caution|පරෙස්සම; අවධානය
+269|会見|かいけん|Press conference; meeting|මාධ්‍ය හමුව; රැස්වීම
+270|支持|しじ|Support|සහාය; අනුමැතිය
+271|妥当|だとう|Appropriate; reasonable|සුදුසු; සාධාරණ
+272|手軽|てがる|Easy; convenient|පහසු; සරල
+273|無責任|むせきにん|Irresponsible|වගකීම් රහිත
+274|招待状|しょうたいじょう|Invitation card|ආරාධනා පත්‍රය
+275|得点|とくてん|Score; points gained|ලකුණු
+276|性能|せいのう|Performance; capability|කාර්යසාධනය; හැකියාව
+277|特色|とくしょく|Distinctive feature|විශේෂ ලක්ෂණය
+278|快適|かいてき|Comfortable|සුවපහසු
+279|円満|えんまん|Harmonious; amicable|සාමකාමී; සුහද
+280|収納|しゅうのう|Storage|ගබඩා කිරීම
+281|小柄|こがら|Small-built; petite|කුඩා ශරීර ව්‍යුහයක් ඇති
+282|無口|むくち|Quiet; taciturn|අඩු කතා කරන; නිහඬ
+283|用途|ようと|Use; purpose|භාවිතය; අරමුණ
+284|行方|ゆくえ|Whereabouts|සිටින තැන; ගිය දිශාව
+285|応援団|おうえんだん|Cheering squad|උද්යෝග දක්වන කණ්ඩායම
+286|悪影響|あくえいきょう|Bad effect|අහිතකර බලපෑම
+287|成功率|せいこうりつ|Success rate|සාර්ථකත්ව අනුපාතය
+288|予測|よそく|Prediction; forecast|අනාවැකිය; පුරෝකථනය
+289|予報|よほう|Forecast|අනාවැකිය
+290|予感|よかん|Premonition; feeling|කලින් දැනීම; පෙර හැඟීම
+291|予習|よしゅう|Preparation for a lesson|පාඩමට පෙර සූදානම් වීම
+292|完了|かんりょう|Completion|සම්පූර්ණ කිරීම
+293|決定|けってい|Decision|තීරණය
+294|実現|じつげん|Realization; achievement|යථාර්ථයක් කිරීම; සාක්ෂාත් කිරීම
+295|達成|たっせい|Achievement|සාක්ෂාත් කිරීම
+296|対比|たいひ|Contrast|සැසඳීම; වෙනස පෙන්වීම
+297|間隔|かんかく|Interval; gap|පරතරය
+298|大別|たいべつ|Broad classification|ප්‍රධාන වශයෙන් වර්ග කිරීම
+299|相違|そうい|Difference|වෙනස
+300|やや|やや|Slightly; somewhat|තරමක්; සුළු වශයෙන්
+301|妙|みょう|Strange; curious|අමුතු; විචිත්‍ර
+302|作成|さくせい|Creation; preparation|නිර්මාණය; සකස් කිරීම
+303|中断|ちゅうだん|Interruption; suspension|අතරමඟ නවතා දැමීම
+304|掲載|けいさい|Publication; posting|පළ කිරීම; ප්‍රකාශනය
+305|病状|びょうじょう|Medical condition|රෝග තත්ත්වය
+306|異文化|いぶんか|Different culture|වෙනස් සංස්කෘතිය
+307|絵画展|かいがてん|Art exhibition|චිත්‍ර ප්‍රදර්ශනය
+308|年代順|ねんだいじゅん|Chronological order|කාලානුක්‍රමික පිළිවෙළ
+309|管理下|かんりか|Under management|පාලනය යටතේ
+310|再開発|さいかいはつ|Redevelopment|නැවත සංවර්ධනය
+311|主成分|しゅせいぶん|Main ingredient|ප්‍රධාන සංඝටකය
+312|安易|あんい|Easy; careless|පහසු ලෙස සිතන; නොසැලකිලිමත්
+313|短気|たんき|Short-tempered|ඉක්මනින් කෝප වන
+314|成立|せいりつ|Establishment; coming into existence|ස්ථාපිත වීම; ඇති වීම
+315|採集|さいしゅう|Collection; gathering|එකතු කිරීම
+316|取得|しゅとく|Acquisition|ලබා ගැනීම
+317|充満|じゅうまん|Filling; saturation|පිරී යාම; සන්තෘප්තිය
+318|いきなり|いきなり|Suddenly; without warning|හදිසියේ; පෙර දැනුම්දීමකින් තොරව
+319|うっかり|うっかり|Carelessly; inadvertently|නොසැලකිල්ලෙන්; අහම්බෙන්
+320|ぎっしり|ぎっしり|Tightly packed; crammed|තදින් පිරී; ගොඩගැසී
+321|こっそり|こっそり|Secretly; stealthily|රහසේ; සොරෙන්
+322|さっぱり|さっぱり|Refreshingly; completely; not at all|ප්‍රබෝධමත්ව; සම්පූර්ණයෙන්; කිසිසේත් නැතිව
+323|すっきり|すっきり|Neatly; refreshed; clearly|පිරිසිදුව; ප්‍රබෝධමත්ව; පැහැදිලිව
+324|ずらり|ずらり|In a row; lined up|පේළියක් ලෙස
+325|たっぷり|たっぷり|Plenty; fully|බහුලව; හොඳින්
+326|のんびり|のんびり|Leisurely; relaxed|සෙමින්; සැහැල්ලුවෙන්
+327|ばったり|ばったり|Unexpectedly; suddenly meeting or stopping|අහම්බෙන්; හදිසියේ හමුවීම හෝ නතර වීම
+328|ぴたり|ぴたり|Exactly; suddenly stopping|හරියටම; හදිසියේ නතර වී
+329|ぴったり|ぴったり|Exactly; perfectly|හරියටම; ඉතා ගැළපෙන ලෙස
+330|ぼんやり|ぼんやり|Absentmindedly; vaguely|මනස වෙනතකට ගොස්; අපැහැදිලිව
+331|いまに|いまに|Before long; someday soon|ළඟදීම; කවදා හෝ ඉක්මනින්
+332|一度に|いちどに|All at once; at the same time|එකවර; එකම වේලාවේ
+333|いっせいに|いっせいに|All together; simultaneously|සියල්ලෝම එකවර
+334|おおいに|おおいに|Greatly; very much|බොහෝ ලෙස; ඉතා
+335|現に|げんに|Actually; in fact|ඇත්ත වශයෙන්; සැබැවින්ම
+336|じかに|じかに|Directly; in person|සෘජුව; පුද්ගලිකව
+337|しきりに|しきりに|Frequently; repeatedly|නිතර; නැවත නැවත
+338|実に|じつに|Truly; really|සැබැවින්ම; ඇත්තෙන්ම
+339|ただちに|ただちに|Immediately; at once|වහාම; එකවර
+340|たまに|たまに|Occasionally|ඉඳහිට
+341|単に|たんに|Simply; merely|සරලව; පමණක්
+342|とたんに|とたんに|The moment; as soon as|එම මොහොතේම; වහාම
+343|とっくに|とっくに|Long ago; already|බොහෝ කලකට පෙර; දැනටමත්
+344|まさに|まさに|Exactly; truly|හරියටම; සැබැවින්ම
+345|めったに|めったに|Hardly ever; rarely|කලාතුරකින්; ඉතා අඩුවෙන්
+346|ようするに|ようするに|In short; in other words|කෙටියෙන්; වෙනත් වචනවලින්
+347|わりに|わりに|Comparatively; for|සාපේක්ෂව; අනුව බලන විට
+348|きちんと|きちんと|Properly; neatly|නිසි ලෙස; පිළිවෙළට
+349|さっさと|さっさと|Quickly; without delay|ඉක්මනින්; ප්‍රමාද නොවී
+350|明確な|めいかくな|Clear; definite|පැහැදිලි; නිශ්චිත
+351|迷惑な|めいわくな|Troublesome; annoying|කරදරකාරී; අසහනකාරී
+352|面倒な|めんどうな|Troublesome; bothersome|කරදරකාරී; අමාරු
+353|厄介な|やっかいな|Troublesome; difficult|කටුක; කටුකාරී
+354|優秀な|ゆうしゅうな|Excellent; outstanding|විශිෂ්ට; දක්ෂ
+355|有能な|ゆうのうな|Capable; competent|හැකියාව ඇති; දක්ෂ
+356|有利な|ゆうりな|Advantageous; favorable|වාසිදායක; හිතකර
+357|容易な|よういな|Easy; simple|පහසු; සරල
+358|陽気な|ようきな|Cheerful; lively|ප්‍රීතිමත්; සජීවී
+359|幼稚な|ようちな|Childish; immature|ළමාසරි; නොමේරූ
+360|余計な|よけいな|Unnecessary; extra|අනවශ්‍ය; අතිරේක
+361|乱暴な|らんぼうな|Rough; violent; careless|රළු; ප්‍රචණ්ඩ; නොසැලකිලිමත්
+362|利口な|りこうな|Clever; sensible|බුද්ධිමත්; නුවණැති
+363|冷静な|れいせいな|Calm; composed|සන්සුන්; සංයමයෙන් යුතු
