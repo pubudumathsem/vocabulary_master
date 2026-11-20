@@ -1,2 +1,173 @@
 number|kanji|reading|english|sinhala
-1|損害|そんがい|Damage; loss|හානිය; පාඩුව
+1|開発環境|かいはつかんきょう|development environment|සංවර්ධන පරිසරය
+2|見積|みつもり|quotation / estimate|මිල ඇස්තමේන්තුව
+3|見積依頼|みつもりいらい|quotation request|මිල ඇස්තමේන්තු ඉල්ලීම
+4|見積作成|みつもりさくせい|quotation creation|මිල ඇස්තමේන්තුව සකස් කිරීම
+5|回答確認|かいとうかくにん|response confirmation|පිළිතුර තහවුරු කිරීම
+6|価格指示|かかくしじ|price instruction|මිල පිළිබඳ උපදෙස්
+7|価格指示作成|かかくしじさくせい|create price instruction|මිල උපදෙස් සකස් කිරීම
+8|価格指示確認|かかくしじかくにん|confirm price instruction|මිල උපදෙස් තහවුරු කිරීම
+9|見積一覧|みつもりいちらん|quotation list|මිල ඇස්තමේන්තු ලැයිස්තුව
+10|登録|とうろく|register|ලියාපදිංචි කිරීම
+11|検索|けんさく|search|සෙවීම
+12|入力|にゅうりょく|input / enter|ඇතුළත් කිරීම
+13|選択|せんたく|select|තේරීම
+14|表示|ひょうじ|display|පෙන්වීම
+15|取消|とりけし|cancel / clear|අවලංගු කිරීම / ඉවත් කිරීම
+16|必須|ひっす|required / mandatory|අනිවාර්ය
+17|承認|しょうにん|approval|අනුමැතිය
+18|承認状況|しょうにんじょうきょう|approval status|අනුමැති තත්ත්වය
+19|営業承認|えいぎょうしょうにん|sales approval|විකුණුම් අනුමැතිය
+20|受付|うけつけ|acceptance / reception|භාරගැනීම / පිළිගැනීම
+21|事業部|じぎょうぶ|business division|ව්‍යාපාර අංශය
+22|営業|えいぎょう|sales|විකුණුම්
+23|状況|じょうきょう|status / situation|තත්ත්වය
+24|氏名|しめい|full name|සම්පූර්ණ නම
+25|管理番号|かんりばんごう|management / control number|කළමනාකරණ අංකය
+26|仮番号|かりばんごう|temporary number|තාවකාලික අංකය
+27|確定|かくてい|confirm / finalize|තහවුරු කිරීම / අවසන් කිරීම
+28|新規|しんき|new|නව
+29|複写|ふくしゃ|copy / duplicate|පිටපත් කිරීම
+30|共通|きょうつう|common / shared|පොදු / හවුල්
+31|ヘッダ情報|へっだじょうほう|header information|ශීර්ෂ තොරතුරු
+32|明細情報|めいさいじょうほう|detail information|විස්තර තොරතුරු
+33|案件|あんけん|project / business opportunity|ව්‍යාපෘතිය / ව්‍යාපාරික අවස්ථාව
+34|案件名|あんけんめい|project name|ව්‍යාපෘති නම
+35|見積タイトル|みつもりたいとる|quotation title|මිල ඇස්තමේන්තු ශීර්ෂය
+36|契約名称|けいやくめいしょう|contract name|ගිවිසුමේ නම
+37|台数|だいすう|number of units|ඒකක ගණන
+38|回次|かいじ|revision / iteration number|සංශෝධන වාර අංකය
+39|顧客|こきゃく|customer|පාරිභෝගිකයා
+40|顧客情報|こきゃくじょうほう|customer information|පාරිභෝගික තොරතුරු
+41|顧客照会|こきゃくしょうかい|customer inquiry / reference|පාරිභෝගික විමසීම / යොමුව
+42|照会|しょうかい|inquiry / reference|විමසීම / යොමුව
+43|注文主|ちゅうもんぬし|ordering customer / client|ඇණවුම්කරු / සේවාදායකයා
+44|注文主名|ちゅうもんぬしめい|ordering customer name|ඇණවුම්කරුගේ නම
+45|需要先|じゅようさき|end user / demand destination|අවසන් භාවිතාකරු / සැපයුම් ගමනාන්තය
+46|需要先名|じゅようさきめい|end-user name|අවසන් භාවිතාකරුගේ නම
+47|商流|しょうりゅう|commercial / distribution flow|වාණිජ / බෙදාහැරීමේ ප්‍රවාහය
+48|販売形態|はんばいけいたい|sales method / type|විකුණුම් ක්‍රමය / වර්ගය
+49|予算額|よさんがく|budget amount|අයවැය මුදල
+50|納期|のうき|delivery deadline|බෙදාහැරීමේ අවසන් දිනය
+51|指定納期|していのうき|specified delivery date|නියමිත බෙදාහැරීමේ දිනය
+52|要求納期|ようきゅうのうき|requested delivery date|ඉල්ලා ඇති බෙදාහැරීමේ දිනය
+53|申出納期|もうしでのうき|proposed delivery date|යෝජිත බෙදාහැරීමේ දිනය
+54|提出期限|ていしゅつきげん|submission deadline|ඉදිරිපත් කිරීමේ අවසන් දිනය
+55|提出予定日|ていしゅつよていび|planned submission date|සැලසුම් කළ ඉදිරිපත් කිරීමේ දිනය
+56|有効期限|ゆうこうきげん|validity period / expiration date|වලංගු කාලය / කල් ඉකුත් වන දිනය
+57|正式引合予定日|せいしきひきあいよていび|planned formal inquiry date|නිල විමසුම සඳහා සැලසුම් කළ දිනය
+58|工場回答期日|こうじょうかいとうきじつ|factory response deadline|කර්මාන්තශාලා පිළිතුරු අවසන් දිනය
+59|手配予定年月日|てはいよていねんがっぴ|planned arrangement / order date|සැලසුම් කළ සූදානම් කිරීමේ / ඇණවුම් දිනය
+60|添付資料|てんぷしりょう|attachment / supporting document|ඇමුණුම / සහායක ලේඛනය
+61|営業添付資料|えいぎょうてんぷしりょう|sales attachment|විකුණුම් ඇමුණුම
+62|事業部添付資料|じぎょうぶてんぷしりょう|division attachment|ව්‍යාපාර අංශයේ ඇමුණුම
+63|添付ファイル|てんぷふぁいる|attached file|අමුණා ඇති ගොනුව
+64|仕様書|しようしょ|specification document|පිරිවිතර ලේඛනය
+65|図面|ずめん|drawing / blueprint|සැලැස්ම / තාක්ෂණික චිත්‍රය
+66|部数|ぶすう|number of copies|පිටපත් ගණන
+67|返却|へんきゃく|return|ආපසු ලබාදීම
+68|返却部数|へんきゃくぶすう|number of copies to return|ආපසු ලබාදිය යුතු පිටපත් ගණන
+69|要求資料|ようきゅうしりょう|required / requested documents|අවශ්‍ය / ඉල්ලා ඇති ලේඛන
+70|和英区分|わえいくぶん|Japanese / English classification|ජපන් / ඉංග්‍රීසි වර්ගීකරණය
+71|貼付|ちょうふ|attach / paste|ඇමිණීම / අලවීම
+72|引渡|ひきわたし|delivery / handover|භාරදීම
+73|引渡場所|ひきわたしばしょ|delivery location|භාරදීමේ ස්ථානය
+74|引渡条件|ひきわたしじょうけん|delivery terms|භාරදීමේ කොන්දේසි
+75|出荷渡|しゅっかわたし|delivery at shipment|නැව්ගත කිරීමේදී භාරදීම
+76|着荷渡|ちゃっかわたし|delivery upon arrival|පැමිණීමේදී භාරදීම
+77|検収渡|けんしゅうわたし|delivery upon acceptance|පරීක්ෂා කර පිළිගැනීමෙන් පසු භාරදීම
+78|検収|けんしゅう|acceptance / inspection|පිළිගැනීම / පරීක්ෂාව
+79|支払|しはらい|payment|ගෙවීම
+80|支払方法|しはらいほうほう|payment method|ගෙවීමේ ක්‍රමය
+81|支払条件|しはらいじょうけん|payment terms|ගෙවීමේ කොන්දේසි
+82|現金|げんきん|cash|මුදල්
+83|手形|てがた|bill / promissory note|බිල්පත / පොරොන්දු නෝට්ටුව
+84|前付金|まえつけきん|advance payment|අත්තිකාරම් ගෙවීම
+85|出来高|できだか|progress payment|වැඩ ප්‍රගතිය අනුව ගෙවීම
+86|月賦|げっぷ|monthly installments|මාසික වාරික
+87|延払|のべばらい|deferred payment|කල් දැමූ ගෙවීම
+88|契約|けいやく|contract|ගිවිසුම
+89|契約区分|けいやくくぶん|contract classification|ගිවිසුම් වර්ගීකරණය
+90|機器|きき|equipment|උපකරණ
+91|役務|えきむ|service|සේවාව
+92|役務提供|えきむていきょう|provision of services|සේවා සැපයීම
+93|期間契約|きかんけいやく|term contract|කාලීන ගිවිසුම
+94|保守|ほしゅ|maintenance|නඩත්තුව
+95|研究|けんきゅう|research|පර්යේෂණය
+96|設計|せっけい|design|සැලසුම් කිරීම
+97|手配|てはい|arrangement / procurement|සූදානම් කිරීම / ප්‍රසම්පාදනය
+98|概算|がいさん|rough estimate|දළ ඇස්තමේන්තුව
+99|推定|すいてい|estimate / estimation|ඇස්තමේන්තුව / අනුමානය
+100|精算|せいさん|final settlement|අවසන් ගිණුම් පියවීම
+101|入札|にゅうさつ|bidding / tender|ලංසු තැබීම / ටෙන්ඩරය
+102|応札|おうさつ|submitting a bid|ලංසුවක් ඉදිරිපත් කිරීම
+103|応札管理|おうさつかんり|bid management|ලංසු කළමනාකරණය
+104|入札内容|にゅうさつないよう|tender details|ටෙන්ඩර් විස්තර
+105|入札方式|にゅうさつほうしき|bidding method|ලංසු ක්‍රමය
+106|随意契約|ずいいけいやく|negotiated / direct contract|සාකච්ඡා කළ / සෘජු ගිවිසුම
+107|指名競争入札|しめいきょうそうにゅうさつ|selective competitive bidding|තෝරාගත් තරගකාරී ලංසු ක්‍රමය
+108|一般競争入札|いっぱんきょうそうにゅうさつ|open competitive bidding|විවෘත තරගකාරී ලංසු ක්‍රමය
+109|電子入札|でんしにゅうさつ|electronic bidding|විද්‍යුත් ලංසු තැබීම
+110|郵便入札|ゆうびんにゅうさつ|postal bidding|තැපැල් ලංසු තැබීම
+111|開札|かいさつ|bid opening|ලංසු විවෘත කිරීම
+112|開札日時|かいさつにちじ|bid opening date / time|ලංසු විවෘත කරන දිනය / වේලාව
+113|公表価格|こうひょうかかく|published price|ප්‍රකාශිත මිල
+114|内訳書|うちわけしょ|cost breakdown|පිරිවැය විභජන ලේඛනය
+115|指名先|しめいさき|nominated bidder / party|නම් කළ ලංසුකරු / පාර්ශ්වය
+116|発注|はっちゅう|place an order|ඇණවුමක් කිරීම
+117|発注確度|はっちゅうかくど|likelihood / confidence of order|ඇණවුම ලැබීමේ විශ්වාස මට්ටම
+118|受注|じゅちゅう|receive / win an order|ඇණවුමක් ලබාගැනීම
+119|受注確度|じゅちゅうかくど|probability of winning an order|ඇණවුම දිනාගැනීමේ සම්භාවිතාව
+120|確度|かくど|probability / confidence level|සම්භාවිතාව / විශ්වාස මට්ටම
+121|重要度|じゅうようど|importance / priority|වැදගත්කම / ප්‍රමුඛතාව
+122|計上|けいじょう|booking / recognition|ගිණුම්ගත කිරීම
+123|計上ランク|けいじょうらんく|booking rank|ගිණුම්ගත කිරීමේ ශ්‍රේණිය
+124|発注予定金額|はっちゅうよていきんがく|planned order amount|සැලසුම් කළ ඇණවුම් මුදල
+125|発注時期|はっちゅうじき|expected order timing|අපේක්ෂිත ඇණවුම් කාලය
+126|発注希望程度|はっちゅうきぼうていど|order expectation level|ඇණවුම් අපේක්ෂා මට්ටම
+127|内示|ないじ|unofficial advance notice|නිල නොවන පෙර දැනුම්දීම
+128|有望|ゆうぼう|promising|බලාපොරොත්තුදායක
+129|見込|みこみ|prospect / expectation|අපේක්ෂාව / ඉඩකඩ
+130|見込薄|みこみうす|low probability / poor prospect|අඩු සම්භාවිතාව / දුර්වල අපේක්ෂාව
+131|規制|きせい|regulation / restriction|නියාමනය / සීමාව
+132|輸出規制|ゆしゅつきせい|export control|අපනයන පාලනය
+133|規制判定|きせいはんてい|regulatory determination|නියාමන තීරණය
+134|判定|はんてい|determination / judgment|තීරණය / විනිශ්චය
+135|リスト規制|りすときせい|list-based export control|ලැයිස්තු-පාදක අපනයන පාලනය
+136|EAR規制|いーえーあーるきせい|EAR regulations|EAR නියාමන
+137|対象品|たいしょうひん|applicable / controlled item|අදාළ / පාලිත භාණ්ඩය
+138|該当|がいとう|applicable|අදාළ
+139|非該当|ひがいとう|not applicable|අදාළ නොවේ
+140|建設業法|けんせつぎょうほう|Construction Business Act|ඉදිකිරීම් ව්‍යාපාර පනත
+141|工事業種|こうじぎょうしゅ|construction work category|ඉදිකිරීම් වැඩ වර්ගය
+142|コンプライアンス|こんぷらいあんす|compliance|අනුකූලතාව
+143|技術審査|ぎじゅつしんさ|technical review|තාක්ෂණික සමාලෝචනය
+144|契約リスク|けいやくりすく|contractual risk|ගිවිසුම් අවදානම
+145|要否|ようひ|whether required or not|අවශ්‍යද නැද්ද යන්න
+146|業種|ぎょうしゅ|industry / business category|කර්මාන්ත / ව්‍යාපාර වර්ගය
+147|製品|せいひん|product|නිෂ්පාදනය
+148|継続|けいぞく|continuation|අඛණ්ඩතාව / දිගටම පවත්වාගෙන යාම
+149|改造|かいぞう|modification|වෙනස් කිරීම
+150|修理|しゅうり|repair|අලුත්වැඩියාව
+151|部品|ぶひん|part / component|කොටස / සංරචකය
+152|新設|しんせつ|new installation|නව ස්ථාපනය
+153|増設|ぞうせつ|expansion / additional installation|පුළුල් කිරීම / අතිරේක ස්ථාපනය
+154|更新|こうしん|renewal / replacement|අලුත් කිරීම / ප්‍රතිස්ථාපනය
+155|整備|せいび|maintenance / servicing|නඩත්තුව / සේවා කිරීම
+156|予算|よさん|budget|අයවැය
+157|仕切|しきり|internal / dealer price|අභ්‍යන්තර / අලෙවි නියෝජිත මිල
+158|積算|せきさん|cost estimation|පිරිවැය ඇස්තමේන්තුව
+159|取調事項|とりしらべじこう|items to investigate / check|විමර්ශනය / පරීක්ෂා කළ යුතු කරුණු
+160|工完|こうかん|work completion|වැඩ අවසන් කිරීම
+161|既設|きせつ|existing / already installed|පවතින / දැනටමත් ස්ථාපිත
+162|既設メーカ|きせつめーか|existing equipment manufacturer|පවතින උපකරණ නිෂ්පාදකයා
+163|延滞|えんたい|delay / arrears|ප්‍රමාදය / හිඟ ගෙවීම
+164|延滞償金|えんたいしょうきん|late-payment penalty|ප්‍රමාද ගෙවීම් දඩය
+165|有無|うむ|presence or absence|තිබීම හෝ නොතිබීම
+166|地域|ちいき|region|ප්‍රදේශය
+167|特記事項|とっきじこう|special notes / remarks|විශේෂ සටහන්
+168|営業特記事項|えいぎょうとっきじこう|sales special notes|විකුණුම් විශේෂ සටහන්
+169|事業部特記事項|じぎょうぶとっきじこう|division special notes|ව්‍යාපාර අංශයේ විශේෂ සටහන්
+170|要|よう|required|අවශ්‍ය
+171|不要|ふよう|unnecessary / not required|අනවශ්‍ය / අවශ්‍ය නොවේ
+172|未作成|みさくせい|not yet created|තවම සකස් කර නොමැත
