@@ -164,7 +164,7 @@ button:hover {
 
 .kanji {
   font-size: clamp(4rem, 12vw, 7rem);
-  font-weight: 800;
+  font-weight: 200;
 }
 
 .reading {
