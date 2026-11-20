@@ -1,1 +1,60 @@
-<!doctype html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>JLPT N2 Flashcards</title><link rel="stylesheet" href="styles.css"></head><body><main><header><div><p class="eyebrow">Japanese study deck</p><h1>JLPT N2 Flashcards</h1><p id="progress">Loading vocabulary...</p></div><button id="theme" aria-label="Toggle theme">☾</button></header><section class="toolbar"><input id="search" placeholder="Search kanji, reading, English or Sinhala"><button id="shuffle">Shuffle</button><button id="add">Add card</button><button id="export">Export TXT</button><button id="reset" class="danger">Reset</button></section><section class="study"><button id="prev" class="nav">‹</button><article id="card" class="card" tabindex="0"><div class="face front"><span id="number"></span><div id="kanji" class="kanji"></div><p>Click to reveal</p></div><div class="face back"><div id="reading" class="reading"></div><div class="meaning"><strong>English</strong><span id="english"></span></div><div class="meaning"><strong>සිංහල</strong><span id="sinhala"></span></div></div></article><button id="next" class="nav">›</button></section><section class="actions"><button id="speak">▶ Pronounce</button><button id="edit">Edit</button><button id="delete" class="danger">Delete</button></section></main><dialog id="editor"><form id="form"><h2 id="formTitle">Add card</h2><input type="hidden" id="editIndex"><label>Kanji<input id="fKanji" required></label><label>Reading<input id="fReading" required></label><label>English<input id="fEnglish" required></label><label>Sinhala<textarea id="fSinhala" required></textarea></label><div class="dialog-actions"><button type="button" id="cancel">Cancel</button><button type="submit">Save</button></div></form></dialog><script src="app.js"></script></body></html>
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width,initial-scale=1" />
+        <title>Technical Words </title>
+        <link rel="stylesheet" href="styles.css" />
+    </head>
+    <body>
+        <main>
+            <header>
+                <div>
+                    <p class="eyebrow">Japanese study deck</p>
+                    <h1>Technical Words used in Office</h1>
+                    <p id="progress">Loading vocabulary...</p>
+                </div>
+                <button id="theme" aria-label="Toggle theme">☾</button>
+            </header>
+            <section class="toolbar">
+                <input id="search" placeholder="Search kanji, reading, English or Sinhala" /><button id="shuffle">
+                    Shuffle</button
+                ><button id="add">Add card</button><button id="export">Export TXT</button
+                ><button id="reset" class="danger">Reset</button>
+            </section>
+            <section class="study">
+                <button id="prev" class="nav">‹</button>
+                <article id="card" class="card" tabindex="0">
+                    <div class="face front">
+                        <span id="number"></span>
+                        <div id="kanji" class="kanji"></div>
+                        <p>Click to reveal</p>
+                    </div>
+                    <div class="face back">
+                        <div id="reading" class="reading"></div>
+                        <div class="meaning"><strong>English</strong><span id="english"></span></div>
+                        <div class="meaning"><strong>සිංහල</strong><span id="sinhala"></span></div>
+                    </div>
+                </article>
+                <button id="next" class="nav">›</button>
+            </section>
+            <section class="actions">
+                <button id="speak">▶ Pronounce</button><button id="edit">Edit</button
+                ><button id="delete" class="danger">Delete</button>
+            </section>
+        </main>
+        <dialog id="editor">
+            <form id="form">
+                <h2 id="formTitle">Add card</h2>
+                <input type="hidden" id="editIndex" /><label>Kanji<input id="fKanji" required /></label
+                ><label>Reading<input id="fReading" required /></label
+                ><label>English<input id="fEnglish" required /></label
+                ><label>Sinhala<textarea id="fSinhala" required></textarea></label>
+                <div class="dialog-actions">
+                    <button type="button" id="cancel">Cancel</button><button type="submit">Save</button>
+                </div>
+            </form>
+        </dialog>
+        <script src="app.js"></script>
+    </body>
+</html>
